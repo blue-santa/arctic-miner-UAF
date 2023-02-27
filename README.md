@@ -22,21 +22,21 @@ UAF is now working on a fully realized version of our submission for Phase 2 of 
 
 Our student team, led by Dr. Lawlor, is not alone in the race to complete Phase 2 with a working model. Here are the list of teams against whom we are competing:
 
-* Aurora Robotics, Fairbanks, Alaska
-* Cislune Excavators, Alhambra, California
-* Ice Busters, Olathe, Kansas
-* Lunar Wombats, Seattle, Washington
-* Michigan Technological University’s Planetary Surface Technology Development Lab, Houghton, Michigan
-* Moog Inc., Elma, New York
-* Moon Industry Inc., Netherlands
-* OffWorld Robotic Mining Team, Aldie, Virginia
-* Redwire Space, Jacksonville, Florida
-* Space Trajectory, Brookings, South Dakota
-* Starpath, San Francisco, California
-* Team xTrac Planetoid Mines, Albuquerque, New Mexico
-* Team Chandra, Noida, Uttar Pradesh, India
+* Aurora Robotics, Fairbanks, Alaska [Website](http://auroraroboticslab.com/) [YouTube Demo](https://www.youtube.com/watch?v=CYMc3-YMdgU&ab_channel=OrionLawlor)
+* Cislune Excavators, Alhambra, California [LinkedIn Profile](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2281476688%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=Q%40g) [Proposal Summary](https://sbir.nasa.gov/SBIR/abstracts/22/sttr/phase1/STTR-22-1-T7.04-1066.html)
+* Ice Busters, Olathe, Kansas [Isaac Blankenau * LinkedIn Profile](https://www.linkedin.com/in/isaac-blankenau/)
+* Lunar Wombats, Seattle, Washington [Website](https://www.utilismachina.com/lunar-wombats) [LinkedIn](https://www.linkedin.com/company/utilis-machina-llc/)
+* Michigan Technological University’s Planetary Surface Technology Development Lab, Houghton, Michigan [Website](https://huskyworks.space/) [BTI Web Hub](https://huskyworks.space/projects/btic)
+* Moog Inc., Elma, New York [Website](https://www.moog.com/news.html)
+* Moon Industry Inc., Netherlands [Website](https://www.moonindustryinc.com/our-productline/)
+* OffWorld Robotic Mining Team, Aldie, Virginia [Website](https://www.offworld.ai/) [YouTube Demo](https://www.youtube.com/watch?v=akEo4qjxCR4&ab_channel=OffWorld)
+* Redwire Space (First Place), Jacksonville, Florida [Website](https://redwirespace.com/) [YouTube Demo](https://www.youtube.com/watch?v=7bLMuuUZHFs&ab_channel=bungieanimator)
+* Space Trajectory (SD State - Mechanical Engineering Department), Brookings, South Dakota [Website](https://www.sdstate.edu/mechanical-engineering) [YouTube Demo](https://www.youtube.com/watch?v=U5RHfIzrvL4&ab_channel=SDState-MechanicalEngineeringDepartment)
+* Starpath, San Francisco, California [Business Entity Page](https://www.bizapedia.com/ca/starpath-robotics-inc.html) [Company](https://ca.ltddir.com/companies/starpath-robotics-inc/)
+* Team xTrac Planetoid Mines, Albuquerque, New Mexico [Website](http://www.planetoidmines.com/#)
+* Team Chandra, Noida, Uttar Pradesh, India [LinkedIn Profile](https://www.linkedin.com/in/akshita-gaba-04a511210/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in) 
 * Terra Engineering, Gardena, California
-* The Ice Diggers, Golden, Colorado
+* The Ice Diggers (Second Place), Golden, Colorado [Website](https://space.mines.edu/mines-wins-award-at-nasa-break-the-ice-lunar-challenge/)
 
 ### About This Repository
 
@@ -45,6 +45,12 @@ This repository contains my notes, journal, sketches, and other random data asso
 Other students may find some of this content useful, as I will attempt to record my learning in a format that assists others in becoming a part of the UAF Robotic team.
 
 ## Getting Involved
+
+[Discord Channel](https://discord.gg/Bn6ajrzH)
+
+[Github - Aurora Robotics Lab](https://github.com/AuroraRoboticsLab)
+
+[Google Drive - Aurora Robotics](https://drive.google.com/drive/u/3/folders/0B8usrKyXQLD_MTk0d3kxdTFYc2M?resourcekey=0-mtEqzlWHI9JxXBUNnrJwDA)
 
 ### Incentives
 
@@ -55,6 +61,24 @@ NASA is actively monitoring the progress of UAF's project, and students have the
 Past students have found employment with agencies such as SpaceX.
 
 Another interesting fact is that the state of Alaska itself is growing in potential for commercial space exploration and development. There is a budding space program at the base of the Kenai pennisula. The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
+
+### Rules
+
+The following is an extract from the [NASA Break the Ice](https://breaktheicechallenge.com/) website.
+
+> Level 1 Submission Requirements
+> TEAMS WILL DELIVER PHASE 2: LEVEL 1 SUBMISSIONS THROUGH THE PHASE 2 CHALLENGE SUBMISSION FORM.
+> Phase 2: Level 1 Submission Requirements
+> Submission Title
+> Team Information
+> Technical Abstract
+> Intellectual Property
+> Team Introduction Video
+> Detailed Design Report
+> CAD Models / Drawings
+> Durability Demonstration Test Plan
+> Layout Drawing of Transportation Demonstration Area
+> Legal and other required documentation
 
 ### Current Obstacles
 
