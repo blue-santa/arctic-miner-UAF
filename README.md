@@ -34,5 +34,5 @@ At this time, Feb 2023, UAF is preparing a new iteration of our robotic mining r
 
 In the UAF Robotics Google Drive, there is a document that has a spread of introductory information and links to additional resources.
 
-The table document is provided in this repository [at this link](documentation/UAF-Robotics-Overview-and-Summary.pdf).
+The table document is provided in this repository [at this link](Documents/UAF-Robotics-Overview-and-Summary.pdf).
 
