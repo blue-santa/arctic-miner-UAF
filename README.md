@@ -86,7 +86,7 @@ Alaska is renowned for its connection to the oil and gas industries. Launching s
 
 The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
 
-### Rules and Guidelines
+## Rules and Guidelines
 
 The following is an extract from the [NASA Break the Ice](https://breaktheicechallenge.com/) website.
 
