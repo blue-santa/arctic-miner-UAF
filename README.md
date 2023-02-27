@@ -4,7 +4,7 @@
 
 NASA is conducting an open challenge that allows participants to design and submit robotic lunar mining equipment.
 
-The intent is to develop robotic, automated solutions to mine water (and other resources) on the lunar surface. The water can then be converted into other substances, such as fuel, which will open the possibility for additional space exploration at a greatly reduced cost.
+The intent is to develop robotic, automated solutions to excavate "regolith," more commonly known as "lunar soil," to mine water on the lunar surface. The water can then be converted into other substances, such as fuel, which will open the possibility for additional space exploration at a greatly reduced cost.
 
 [Official Website Link](https://breaktheicechallenge.com/)
 
@@ -160,55 +160,29 @@ The following is an extract from the NASA website.
 >    
 >    This document must identify any potentially hazardous material or other safety concerns related to the terrestrial analog full-scale prototypes. This safety analysis must specifically consider future possible transport and operation of your equipment in a test facility (NASA or other) and potential interactions with humans (i.e. Centennial Challenges judging staff).
 
+## Takeaways for New Students
+
 ### Current Obstacles
 
 Many students are excited about the idea of getting involved with Break The Ice, but are not sure how to proceed.
 
-This README.md document contains a journal of my own progress, starting from the beginning and moving through to the completion of the 2023 challenge involvement. 
-
-### Timeline
-
-The current iteration of UAF's robotic miner needs to be operation by sometime in June 2023. This will give ample time for finalization of the product before all content, robotic products, and demonstrations can be handed over to NASA in Fall 2023. 
-
-## Becoming Familiar with the General Concept
-
 #### Conversations with Dr. Lawlor as a First Step
 
-Dr. Lawlor is most available for open discussion during his office hours, which are MWF 1300 to 1500 hrs. 
+Dr. Lawlor is, quite naturally, the leading expert on the project. He is most available for open discussion with students during his office hours, which are MWF 1300 to 1500 hrs. 
 
 We also meet with other students as a part of the Robotics Club on Thursdays from 1300 to 1400 hrs in ELIF 118.
 
-Dr. Lawlor and other students are also available for chat discussion on the Aurora Robotics Lab Discord server (this server is separate from the main CS UAF Discord server):
+Dr. Lawlor and other students are available for chat discussion on the Aurora Robotics Lab Discord server (this server is separate from the main CS UAF Discord server):
 
-[Discord Channel](https://discord.gg/Bn6ajrzH)
+[UAF Aurora Robotics Discord Channel](https://discord.gg/Bn6ajrzH)
 
-Repositories containing additional work and content can be found on Github and Google Drive:
+[The Aurora Robotics Github repository can be found here.](https://github.com/AuroraRoboticsLab)
 
-[Github - Aurora Robotics Lab](https://github.com/AuroraRoboticsLab)
+[The Aurora Robotics Google Drive](https://drive.google.com/drive/u/3/folders/0B8usrKyXQLD_MTk0d3kxdTFYc2M?resourcekey=0-mtEqzlWHI9JxXBUNnrJwDA) has an abundance of useful resources on the current state of the project, as well as a history of many of the projects that have come before.
 
-[Google Drive - Aurora Robotics](https://drive.google.com/drive/u/3/folders/0B8usrKyXQLD_MTk0d3kxdTFYc2M?resourcekey=0-mtEqzlWHI9JxXBUNnrJwDA)
+### Timeline
 
-#### A Quick Overview
-
-In the NASA Break The Ice robot challenge, the UAF team competes with other teams from around the world to build a robot that is capable of mining on extra terrestrial surfaces. 
-
-At this time, UAF has progressed through various stages of the competition to become one of the final dozen or so teams to still be competing. In the previous round, NASA awarded UAF and the other successful competitors a modest five-figure financial investment to continue pursuing our research. 
-
-At this time, Feb 2023, UAF is preparing a new iteration of our robotic mining robot to compete in the next round of the NASA competition.
-
-#### Introductory Documentation
-
-##### UAF Robotics: Overview & Summary
-
-In the UAF Robotics Google Drive, there is a document that has a spread of introductory information and links to additional resources.
-
-
-
-## Key terms
-
-#### Regolith
-
-Lunar soil.
+The current iteration of UAF's robotic miner needs to complete its first 15 day endurance test by June 2023. This will give ample time for finalization of the product before all submission content can be handed to NASA in Fall 2023. 
 
 ## Additional Resources
 
@@ -226,10 +200,12 @@ UAF Robotics > ISRU > Break the Ice Challenge > Break the Ice 2021-02-Presentati
 
 A document that has many of the questions and answers about Phase 2 of the project.
 
-This file can be found in:
+This file can be found in the Google Drive:
 
 UAF Robotics > ISRU > Break the Ice Challenge > Phase 2 - 2022-23 > BTIL Phase 2 MEGANOTES
 
 #### Break the Ice Challenge MEGANOTES
 
+This file can be found in the Google Drive:
 
+UAF Robotics > ISRU > Break the Ice Challenge > Break the Ice Challenge MEGANOTES
