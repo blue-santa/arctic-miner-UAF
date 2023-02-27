@@ -24,16 +24,16 @@ Our student team, led by Dr. Lawlor, is not alone in the race to complete Phase 
 
 | Team Name | Links |
 | --------- | ----- |
-| Aurora Robotics | [Website](http://auroraroboticslab.com/) [YouTube Demo](https://www.youtube.com/watch?v=CYMc3-YMdgU&ab_channel=OrionLawlor) |
+| Aurora Robotics | [Website,](http://auroraroboticslab.com/) [YouTube Demo](https://www.youtube.com/watch?v=CYMc3-YMdgU&ab_channel=OrionLawlor) |
 | Cislune Excavators | [LinkedIn Profile](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2281476688%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=Q%40g) [Proposal Summary](https://sbir.nasa.gov/SBIR/abstracts/22/sttr/phase1/STTR-22-1-T7.04-1066.html) |
-| Ice Busters | [Isaac Blankenau * LinkedIn Profile](https://www.linkedin.com/in/isaac-blankenau/) |
-| Lunar Wombats | [Website](https://www.utilismachina.com/lunar-wombats) [LinkedIn](https://www.linkedin.com/company/utilis-machina-llc/) |
-| Michigan Technological University | [Website](https://huskyworks.space/) [BTI Web Hub](https://huskyworks.space/projects/btic) |
+| Ice Busters | [Isaac Blankenau - LinkedIn Profile](https://www.linkedin.com/in/isaac-blankenau/) |
+| Lunar Wombats | [Website,](https://www.utilismachina.com/lunar-wombats) [LinkedIn](https://www.linkedin.com/company/utilis-machina-llc/) |
+| Michigan Technological University | [Website,](https://huskyworks.space/) [BTI Web Hub](https://huskyworks.space/projects/btic) |
 | Moog Inc. | [Website](https://www.moog.com/news.html) |
 | Moon Industry Inc. | [Website](https://www.moonindustryinc.com/our-productline/) |
-| OffWorld Robotic Mining Team | [Website](https://www.offworld.ai/) [YouTube Demo](https://www.youtube.com/watch?v=akEo4qjxCR4&ab_channel=OffWorld) |
-| Redwire Space (First Place) | [Website](https://redwirespace.com/) [YouTube Demo](https://www.youtube.com/watch?v=7bLMuuUZHFs&ab_channel=bungieanimator) |
-| Space Trajectory (SD State - Mechanical Engineering Department) | [Website](https://www.sdstate.edu/mechanical-engineering) [YouTube Demo](https://www.youtube.com/watch?v=U5RHfIzrvL4&ab_channel=SDState-MechanicalEngineeringDepartment) |
+| OffWorld Robotic Mining Team | [Website,](https://www.offworld.ai/) [YouTube Demo](https://www.youtube.com/watch?v=akEo4qjxCR4&ab_channel=OffWorld) |
+| Redwire Space (First Place) | [Website,](https://redwirespace.com/) [YouTube Demo](https://www.youtube.com/watch?v=7bLMuuUZHFs&ab_channel=bungieanimator) |
+| Space Trajectory (SD State - Mechanical Engineering Department) | [Website,](https://www.sdstate.edu/mechanical-engineering) [YouTube Demo](https://www.youtube.com/watch?v=U5RHfIzrvL4&ab_channel=SDState-MechanicalEngineeringDepartment) |
 | Starpath | [Business Entity Page](https://www.bizapedia.com/ca/starpath-robotics-inc.html) [Company](https://ca.ltddir.com/companies/starpath-robotics-inc/) |
 | Team xTrac Planetoid Mines | [Website](http://www.planetoidmines.com/#) |
 | Team Chandra | [LinkedIn Profile](https://www.linkedin.com/in/akshita-gaba-04a511210/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in)  |
