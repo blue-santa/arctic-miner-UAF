@@ -62,7 +62,9 @@ NASA is actively monitoring the progress of UAF's project, and students have the
 
 Past students have found employment with agencies such as SpaceX.
 
-Another interesting fact is that the state of Alaska itself is growing in potential for commercial space exploration and development. There is a budding space program at the base of the Kenai pennisula. The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
+Another interesting fact is that the state of Alaska itself is growing in potential for commercial space exploration and development. There is a budding space program at the base of the Kenai pennisula. Alaska is renowned for its connection to the oil and gas industries. Launching satelites and other payloads from Alaska may have advantages over other locations due to its proximity to these natural resources.
+
+The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
 
 ### Rules
 
@@ -111,7 +113,7 @@ We are currently in Phase 2: Level 2. The rewards offered are as follows.
 | 1st Place | $300,000 |
 | 2nd Place | $200,000 |
 | 3rd Place | $125,000 |
-| Up to 5 (five) Runners Up ($75,000 each) | $375,000 |
+| Up to 5 Runners Up ($75,000 each) | $375,000 |
 | Level 2 Total | $1,000,000 |
 
 ### Current Obstacles
@@ -165,3 +167,9 @@ Lunar soil.
 #### NASA Break The Ice Webinar
 
 [Link to NASA Webinar Video](https://breaktheicechallenge.com/industry-perspective-webinar/)
+
+#### Dr. Lawlor's 2021 PowerPoint Presentation on Break the Ice
+
+This document can be found in the UAF Google Drive here:
+
+UAF Robotics > ISRU > Break the Ice Challenge > Break the Ice 2021-02-Presentation
