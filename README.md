@@ -142,19 +142,23 @@ The following is an extract from the NASA website.
 >        * certified compressive strength test report at the beginning and end of the 15 day test period
 >        * geometry sketch
 >    * The following information shall be provided in a table:
->    * Mass (kg) of each piece of equipment, including spare parts (whether used or not) and repair and maintenance tools (whether used or not), plus total system mass (kg)
->    * Energy used by each piece of prototype icy regolith excavation and transportation equipment (kWh), plus total system energy (kWh)
->    * Not counting energy used during repair and maintenance of prototype icy regolith excavation and transportation equipment nor repair and maintenance of transportation demonstration area.
->    * Runtime (hours) of each piece of equipment, plus total system runtime, plus total number of icy regolith excavation and transportation robots
->    * Total distance traversed (km) by icy-regolith transportation equipment, plus total number of icy-regolith transportation equipment round trips between simulated Excavation Site and simulated Water Extraction Plant
->    * Total mass (kg) of icy regolith simulant excavated and delivered
->    * Any material processed by the excavation equipment which is not also transported and delivered by the transportation equipment will not count towards the team’s score.
->    * Daily (at the end of each 24 hour period) log of the mass of simulated icy regolith delivered
->    Durability Demonstration Time-Lapse Video:
+>        * Mass (kg) of each piece of equipment, including spare parts (whether used or not) and repair and maintenance tools (whether used or not), plus total system mass (kg)
+>        * Energy used by each piece of prototype icy regolith excavation and transportation equipment (kWh), plus total system energy (kWh)
+>            * Not counting energy used during repair and maintenance of prototype icy regolith excavation and transportation equipment nor repair and maintenance of transportation demonstration area.
+>        * Runtime (hours) of each piece of equipment, plus total system runtime, plus total number of icy regolith excavation and transportation robots
+>        * Total distance traversed (km) by icy-regolith transportation equipment, plus total number of icy-regolith transportation equipment round trips between simulated Excavation Site and simulated Water Extraction Plant
+>        * Total mass (kg) of icy regolith simulant excavated and delivered
+>            * Any material processed by the excavation equipment which is not also transported and delivered by the transportation equipment will not count towards the team’s score.
+>            * Daily (at the end of each 24 hour period) log of the mass of simulated icy regolith delivered
+>    
+>    
+>    ##### Durability Demonstration Time-Lapse Video:
+>    
 >    This video must show a minimum of 3 full cycles of excavation, transportation, and delivery from each piece of equipment recorded during the Team’s long-term durability demonstration of their working prototype system. For equipment operating continuously without discrete cycles, a minimum of 2 hours of operation from that equipment is acceptable.
-
-Safety analysis:
-This document must identify any potentially hazardous material or other safety concerns related to the terrestrial analog full-scale prototypes. This safety analysis must specifically consider future possible transport and operation of your equipment in a test facility (NASA or other) and potential interactions with humans (i.e. Centennial Challenges judging staff).
+>    
+>    ##### Safety analysis:
+>    
+>    This document must identify any potentially hazardous material or other safety concerns related to the terrestrial analog full-scale prototypes. This safety analysis must specifically consider future possible transport and operation of your equipment in a test facility (NASA or other) and potential interactions with humans (i.e. Centennial Challenges judging staff).
 
 ### Current Obstacles
 
