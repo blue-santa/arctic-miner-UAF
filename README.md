@@ -86,30 +86,13 @@ Alaska is renowned for its connection to the oil and gas industries. Launching s
 
 The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
 
-### Rules
+### Rules and Guidelines
 
 The following is an extract from the [NASA Break the Ice](https://breaktheicechallenge.com/) website.
 
->    #### Level 1 Submission Requirements
->
->    TEAMS WILL DELIVER PHASE 2: LEVEL 1 SUBMISSIONS THROUGH THE PHASE 2 CHALLENGE SUBMISSION FORM.
->
->    Phase 2: Level 1 Submission Requirements
->
->    - Submission Title
->    - Team Information
->    - Technical Abstract
->    - Intellectual Property
->    - Team Introduction Video
->    - Detailed Design Report
->    - CAD Models / Drawings
->    - Durability Demonstration Test Plan
->    - Layout Drawing of Transportation Demonstration Area
->    - Legal and other required documentation
-
-Also note the following.
-
->    Phase 2 contains three (3) levels. In this Phase, teams will design, build, and test terrestrial analog full-scale prototypes of robotic icy regolith excavation and transportation systems. Downstream ice and/or water delivery equipment described in Phase 1 of this Challenge will not be considered in Phase 2 of this Challenge.
+>    Phase 2 contains three (3) levels. 
+>    
+>    In this Phase, teams will design, build, and test terrestrial analog full-scale prototypes of robotic icy regolith excavation and transportation systems. Downstream ice and/or water delivery equipment described in Phase 1 of this Challenge will not be considered in Phase 2 of this Challenge.
 >
 >    LEVEL 1: PLAN THE PROTOTYPE
 >
@@ -137,6 +120,41 @@ The rewards offered are as follows.
 | 3rd Place | $125,000 |
 | Up to 5 Runners Up ($75,000 each) | $375,000 |
 | Level 2 Total | $1,000,000 |
+
+#### Submission Deliverables and Requirements
+
+The following is an extract from the NASA website.
+
+>    ##### Durability Demonstration Test Report:
+>    
+>    This document must detail the Team’s long-term durability demonstration of their working prototype system. This document must include the following details:
+>    
+>    * Demonstration start date, duration, and as-run schedule of tests
+>    * Sequence for operating and exercising each piece of prototype equipment
+>    * Description of any changes in the Demonstration Test Plan from that submitted in Level 1
+>    * Description of any changes to the prototype robot design submitted in Level 1.
+>    * Photos of each major piece of hardware and equipment performing normal operations
+>    * Log of parts replaced, breakdowns, issues requiring human intervention, along with job-hours spent on repairs on the prototype icy regolith excavation and transportation equipment.
+>    * Log of any maintenance or repair of the Transportation Demonstration Area
+>    * Post demonstration inspection results
+>    * Details of icy regolith simulant bed used in demonstration:
+>        * mixture design
+>        * certified compressive strength test report at the beginning and end of the 15 day test period
+>        * geometry sketch
+>    * The following information shall be provided in a table:
+>    * Mass (kg) of each piece of equipment, including spare parts (whether used or not) and repair and maintenance tools (whether used or not), plus total system mass (kg)
+>    * Energy used by each piece of prototype icy regolith excavation and transportation equipment (kWh), plus total system energy (kWh)
+>    * Not counting energy used during repair and maintenance of prototype icy regolith excavation and transportation equipment nor repair and maintenance of transportation demonstration area.
+>    * Runtime (hours) of each piece of equipment, plus total system runtime, plus total number of icy regolith excavation and transportation robots
+>    * Total distance traversed (km) by icy-regolith transportation equipment, plus total number of icy-regolith transportation equipment round trips between simulated Excavation Site and simulated Water Extraction Plant
+>    * Total mass (kg) of icy regolith simulant excavated and delivered
+>    * Any material processed by the excavation equipment which is not also transported and delivered by the transportation equipment will not count towards the team’s score.
+>    * Daily (at the end of each 24 hour period) log of the mass of simulated icy regolith delivered
+>    Durability Demonstration Time-Lapse Video:
+>    This video must show a minimum of 3 full cycles of excavation, transportation, and delivery from each piece of equipment recorded during the Team’s long-term durability demonstration of their working prototype system. For equipment operating continuously without discrete cycles, a minimum of 2 hours of operation from that equipment is acceptable.
+
+Safety analysis:
+This document must identify any potentially hazardous material or other safety concerns related to the terrestrial analog full-scale prototypes. This safety analysis must specifically consider future possible transport and operation of your equipment in a test facility (NASA or other) and potential interactions with humans (i.e. Centennial Challenges judging staff).
 
 ### Current Obstacles
 
