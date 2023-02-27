@@ -4,7 +4,7 @@
 
 NASA is conducting an open challenge that allows participants to design and submit robotic lunar mining equipment.
 
-The intent is to develop robotic, automated solutions to excavate "regolith," more commonly known as "lunar soil," to mine water on the lunar surface. The water can then be converted into other substances, such as fuel, which will open the possibility for additional space exploration at a greatly reduced cost.
+The intent is to develop robotic, automated solutions to excavate "regolith," more commonly known as "lunar soil." From the regolith, NASA intends to mine water, which can then be converted into other substances, such as fuel. Access to water will open the possibility for additional space exploration at a greatly reduced cost.
 
 [Official Website Link](https://breaktheicechallenge.com/)
 
