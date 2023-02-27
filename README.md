@@ -104,6 +104,14 @@ Also note the following.
 
     Up to $1,000,000 in prizes will be offered in Level 2
 
+We are currently in Phase 2: Level 2. The rewards offered are as follows.
+
+| 1st Place | $300,000 |
+| 2nd Place | $200,000 |
+| 3rd Place | $125,000 |
+| Up to 5 (five) Runners Up ($75,000 each) | $375,000 |
+| Level 2 Total | $1,000,000 |
+
 ### Current Obstacles
 
 Many students are excited about the idea of getting involved with Break The Ice, but are not sure how to proceed.
