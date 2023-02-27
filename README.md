@@ -70,22 +70,22 @@ The Break The Ice challenge has opportunities to connect students with career op
 
 The following is an extract from the [NASA Break the Ice](https://breaktheicechallenge.com/) website.
 
-    Level 1 Submission Requirements
-
-    TEAMS WILL DELIVER PHASE 2: LEVEL 1 SUBMISSIONS THROUGH THE PHASE 2 CHALLENGE SUBMISSION FORM.
-
-    Phase 2: Level 1 Submission Requirements
-
-    - Submission Title
-    - Team Information
-    - Technical Abstract
-    - Intellectual Property
-    - Team Introduction Video
-    - Detailed Design Report
-    - CAD Models / Drawings
-    - Durability Demonstration Test Plan
-    - Layout Drawing of Transportation Demonstration Area
-    - Legal and other required documentation
+>    Level 1 Submission Requirements
+>
+>    TEAMS WILL DELIVER PHASE 2: LEVEL 1 SUBMISSIONS THROUGH THE PHASE 2 CHALLENGE SUBMISSION FORM.
+>
+>    Phase 2: Level 1 Submission Requirements
+>
+>    - Submission Title
+>    - Team Information
+>    - Technical Abstract
+>    - Intellectual Property
+>    - Team Introduction Video
+>    - Detailed Design Report
+>    - CAD Models / Drawings
+>    - Durability Demonstration Test Plan
+>    - Layout Drawing of Transportation Demonstration Area
+>    - Legal and other required documentation
 
 Also note the following.
 
