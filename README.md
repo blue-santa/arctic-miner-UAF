@@ -106,6 +106,8 @@ Also note the following.
 
 We are currently in Phase 2: Level 2. The rewards offered are as follows.
 
+| Description | Amount |
+| ----------- | ------ |
 | 1st Place | $300,000 |
 | 2nd Place | $200,000 |
 | 3rd Place | $125,000 |
