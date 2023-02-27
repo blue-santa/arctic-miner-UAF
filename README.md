@@ -2,6 +2,8 @@
 
 This repository contains my notes, journal, sketches, and other random data associated with my involvement with UAF and Dr. Lawlor's participation in the NASA "Break the Ice" challenge.
 
+Other students may find some of this content useful, as I will attempt to record my learning in a format that assists others in becoming a part of the UAF Robotic team.
+
 ## Getting Involved
 
 Many students express interest in getting involved with this UAF project, but are not sure how to proceed.
@@ -26,9 +28,16 @@ At this time, UAF has progressed through various stages of the competition to be
 
 At this time, Feb 2023, UAF is preparing a new iteration of our robotic mining robot to compete in the next round of the NASA competition.
 
-####
+#### Introductory Documentation
 
-During spring semester of 
+##### UAF Robotics: Overview & Summary
+
+In the UAF Robotics Google Drive, there is a document that has a spread of introductory information and links to additional resources.
+
+The table document is provided in this repository [at this link](documentation/
+
+
+
 
 
  My Notes on Getting Started as a New Student
