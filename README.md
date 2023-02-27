@@ -22,9 +22,9 @@ Dr. Lawlor and UAF have been involved with this project, and other similar endea
 
 The experience gained and the hard work of many students before us have allowed UAF to have a competitive position in the challenge.
 
-In 2022, UAF's submission for Phase 2: Level 1 was successful. [NASA chose UAF from the field of applicants](https://www.nasa.gov/directorates/spacetech/centennial_challenges/nasa-announces-newest-winners-in-break-the-ice-lunar-challenge.html) to successfully move to Phase 2: Level 2. 
+In 2022, [NASA chose UAF's robotic mining concept from the field of applicants](https://www.nasa.gov/directorates/spacetech/centennial_challenges/nasa-announces-newest-winners-in-break-the-ice-lunar-challenge.html) to successfully move to Phase 2: Level 2. 
 
-As a reward for UAF's current progress, NASA awarded UAF $25,000 to assist in further funding. Some of these funds are making continued development possible for the UAF Robotics team as we move to Phase 2: Level 2.
+As a reward for UAF's current progress, NASA awarded UAF $25,000 to assist in further funding. Some of these funds are making continued development possible for the UAF Robotics team.
 
 ### Meet Our Competitors
 
@@ -94,7 +94,7 @@ The following is an extract from the [NASA Break the Ice](https://breaktheicecha
 >    
 >    In this Phase, teams will design, build, and test terrestrial analog full-scale prototypes of robotic icy regolith excavation and transportation systems. Downstream ice and/or water delivery equipment described in Phase 1 of this Challenge will not be considered in Phase 2 of this Challenge.
 >
->    LEVEL 1: PLAN THE PROTOTYPE
+>    LEVEL 1: PLAN THE PROTOTYPE (Completed in 2022)
 >
 >    Teams will develop detailed engineering designs and long-duration demonstration test plans for their prototype systems.
 >    
@@ -102,7 +102,8 @@ The following is an extract from the [NASA Break the Ice](https://breaktheicecha
 >
 >    Up to $500,000 in prizes will be offered in Level 1.
 >
->    LEVEL 2: BUILD & TEST THE PROTOTYPE
+>    LEVEL 2: BUILD & TEST THE PROTOTYPE (We are here)
+>    
 >    Build your terrestrial analog full-scale prototype and conduct durability demonstrations at a facility of your choosing and submit the report data.
 >    
 >    Up to 15 teams will be selected to advance to Level 3
@@ -162,7 +163,7 @@ The following is an extract from the NASA website.
 
 ## Takeaways for New Students
 
-### Current Obstacles
+### Many Students are Looking for a Way to Get Involved
 
 Many students are excited about the idea of getting involved with Break The Ice, but are not sure how to proceed.
 
@@ -182,7 +183,9 @@ Dr. Lawlor and other students are available for chat discussion on the Aurora Ro
 
 ### Timeline
 
-The current iteration of UAF's robotic miner needs to complete its first 15 day endurance test by June 2023. This will give ample time for finalization of the product before all submission content can be handed to NASA in Fall 2023. 
+The current iteration of UAF's robotic miner needs to complete its first 15 day endurance test by June 2023. 
+
+This will give ample time for finalization of the product before all submission content can be handed to NASA in Fall 2023. 
 
 ## Additional Resources
 
