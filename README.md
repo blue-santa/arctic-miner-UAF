@@ -6,11 +6,25 @@ Other students may find some of this content useful, as I will attempt to record
 
 ## Getting Involved
 
-Many students express interest in getting involved with this UAF project, but are not sure how to proceed.
+Many students express interest in getting involved with this UAF project. 
+
+### Incentives
+
+There is a general excitement about the concept of being involved in robotics. A challenging and meaningful career may await a diligent student, as well as a chance to learn new skills and explore new possibilities. 
+
+NASA is actively monitoring the progress of UAF's project, and students have their work displayed with this prominent employer. 
+
+Past students have found employment with agencies such as SpaceX.
+
+Another interesting fact is that the state of Alaska itself is growing in potential for commercial space exploration and development. There is a budding space program at the base of the Kenai pennisula. The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
+
+### Current Challenges
+
+Many students are excited about the idea of getting involved with Break The Ice, but are not sure how to proceed.
 
 This README.md document contains a journal of my own progress, starting from the beginning and moving through to the completion of the 2023 challenge involvement. 
 
-### Becoming Familiar with the General Concept
+## Becoming Familiar with the General Concept
 
 #### Conversations with Dr. Lawlor as a First Step
 
@@ -35,4 +49,9 @@ At this time, Feb 2023, UAF is preparing a new iteration of our robotic mining r
 In the UAF Robotics Google Drive, there is a document that has a spread of introductory information and links to additional resources.
 
 The table document is provided in this repository [at this link](Documents/UAF-Robotics-Overview-and-Summary.pdf).
+
+To click on the links in the above table, you will need to download the file.
+
+
+
 
