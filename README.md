@@ -10,13 +10,21 @@ The intent is to develop robotic, automated solutions to mine water (and other r
 
 Be sure to watch the video on the homepage and to read the official rules.
 
-### About UAF's Involvement
+The challenge has three phases, and each phase has various levels within the phase. 
 
-Dr. Lawlor and UAF have been involved with this project, and other similar endeavors, in previous years. The experience gained has allowed UAF to have a competitive position in the challenge.
+Currently, the competition has reached Phase 2: Level 2. 
 
-In 2022, [UAF was chosen from the field of Phase 1 applicants](https://www.nasa.gov/directorates/spacetech/centennial_challenges/nasa-announces-newest-winners-in-break-the-ice-lunar-challenge.html) to successfully move to Phase 2. As a reward for UAF's current progress, NASA awarded UAF $23,000 to assist in further funding.
+In this stage, competitors build an actual prototype of the ideas that they have submitted to NASA previously. Competitors then run the prototype as a demonstration for 15 days, and submit the results towards the latter half of 2023. 
 
-UAF is now working on a fully realized version of our submission for Phase 2 of the challenge.
+### UAF's Involvement
+
+Dr. Lawlor and UAF have been involved with this project, and other similar endeavors, for approximately a decade. 
+
+The experience gained and the hard work of many students before us have allowed UAF to have a competitive position in the challenge.
+
+In 2022, UAF's submission for Phase 2: Level 1 was successful. [NASA chose UAF from the field of applicants](https://www.nasa.gov/directorates/spacetech/centennial_challenges/nasa-announces-newest-winners-in-break-the-ice-lunar-challenge.html) to successfully move to Phase 2: Level 2. 
+
+As a reward for UAF's current progress, NASA awarded UAF $25,000 to assist in further funding. Some of these funds are making continued development possible for the UAF Robotics team as we move to Phase 2: Level 2.
 
 ### Meet Our Competitors
 
@@ -42,21 +50,39 @@ Our student team, led by Dr. Lawlor, is not alone in the race to complete Phase 
 
 ### About This Repository
 
-This repository contains my notes, journal, sketches, and other random data associated with my involvement with UAF and Dr. Lawlor's participation in the NASA "Break the Ice" challenge.
+This repository contains my notes, journal, sketches, and other random data associated with my involvement with this challenge.
 
-Other students may find some of this content useful, as I will attempt to record my learning in a format that assists others in becoming a part of the UAF Robotic team.
+Other students may find some of this content useful, therefore I am attempting to record my learning in a format that assists others in becoming a part of the UAF Robotics team.
 
 ## Getting Involved
 
 ### Incentives
 
-There is a general excitement among students about the concept of being involved in robotics. A challenging and meaningful career may await a diligent student, as well as a chance to learn new skills and explore new possibilities. 
+There is a general excitement among students about the concept of being involved in robotics, even before learning about UAF's Break The Ice opportunity. 
 
-NASA is actively monitoring the progress of UAF's project, and students have their work displayed with this prominent employer. Note that NASA is planning the Artemis mission to the Shackleton Crater at the Lunar South Pole. These missions have an objective to harvest water from lunar ice, which can then be converted to rocket fuel. 
+Many students see computer science and robotics as an opportunity for a rewarding career.
 
-Past students have found employment with agencies such as SpaceX.
+#### NASA's Mining Initiative
 
-Another interesting fact is that the state of Alaska itself is growing in potential for commercial space exploration and development. There is a budding space program at the base of the Kenai pennisula. Alaska is renowned for its connection to the oil and gas industries. Launching satelites and other payloads from Alaska may have advantages over other locations due to its proximity to these natural resources.
+NASA is actively monitoring the progress of UAF's project, and students have their work displayed with this prominent employer. 
+
+Interested students may find it useful to know that NASA is planning a series of missions, dubbed the "Artemis missions", for which this Break The Ice challenge is providing relevant research and discovery. 
+
+In the Artemis missions, NASA intends to send manned lunar mining equipment to the Shackleton Crater at the Lunar South Pole. 
+
+The objective is to harvest water from lunar ice, and the water can then be converted to rocket fuel. 
+
+Past students have found employment with agencies such as SpaceX and other prominent space agencies.
+
+#### Alaska is Home to a Growing Space Race Initiative
+
+Another interesting fact is that the state of Alaska itself is growing in potential for commercial space exploration and development. 
+
+There is a budding space program, [Alaska Aerospace](https://akaerospace.com/), at the base of the Kenai pennisula. 
+
+Fairbank's own military base, Eielson Air Force Base, has partitioned one of its installations near Fairbanks to serve as an installation for the new Space Force.
+
+Alaska is renowned for its connection to the oil and gas industries. Launching satelites and other payloads from Alaska may have advantages over other locations due to its proximity to these natural resources.
 
 The Break The Ice challenge has opportunities to connect students with career openings that span the gas and mining industry on both a terrestrial and extra-terrestrial level. 
 
@@ -173,3 +199,15 @@ Lunar soil.
 This document can be found in the UAF Google Drive here:
 
 UAF Robotics > ISRU > Break the Ice Challenge > Break the Ice 2021-02-Presentation
+
+#### BTIL Phase 2 MEGANOTES
+
+A document that has many of the questions and answers about Phase 2 of the project.
+
+This file can be found in:
+
+UAF Robotics > ISRU > Break the Ice Challenge > Phase 2 - 2022-23 > BTIL Phase 2 MEGANOTES
+
+#### Break the Ice Challenge MEGANOTES
+
+
