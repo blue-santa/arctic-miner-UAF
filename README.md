@@ -48,12 +48,6 @@ Other students may find some of this content useful, as I will attempt to record
 
 ## Getting Involved
 
-[Discord Channel](https://discord.gg/Bn6ajrzH)
-
-[Github - Aurora Robotics Lab](https://github.com/AuroraRoboticsLab)
-
-[Google Drive - Aurora Robotics](https://drive.google.com/drive/u/3/folders/0B8usrKyXQLD_MTk0d3kxdTFYc2M?resourcekey=0-mtEqzlWHI9JxXBUNnrJwDA)
-
 ### Incentives
 
 There is a general excitement among students about the concept of being involved in robotics. A challenging and meaningful career may await a diligent student, as well as a chance to learn new skills and explore new possibilities. 
@@ -89,8 +83,8 @@ The following is an extract from the [NASA Break the Ice](https://breaktheicecha
 
 Also note the following.
 
-    Phase 2 contains three (3) levels. In this Phase, teams will design, build, and test terrestrial analog full-scale prototypes of robotic icy regolith excavation and transportation systems. Downstream ice and/or water delivery equipment described in Phase 1 of this Challenge will not be considered in Phase 2 of this Challenge.
-
+>    Phase 2 contains three (3) levels. In this Phase, teams will design, build, and test terrestrial analog full-scale prototypes of robotic icy regolith excavation and transportation systems. Downstream ice and/or water delivery equipment described in Phase 1 of this Challenge will not be considered in Phase 2 of this Challenge.
+>
 >    LEVEL 1: PLAN THE PROTOTYPE
 >
 >    Teams will develop detailed engineering designs and long-duration demonstration test plans for their prototype systems.
@@ -106,7 +100,9 @@ Also note the following.
 >
 >    Up to $1,000,000 in prizes will be offered in Level 2
 
-We are currently in Phase 2: Level 2. The rewards offered are as follows.
+We are currently in Phase 2: Level 2. 
+
+The rewards offered are as follows.
 
 | Description | Amount |
 | ----------- | ------ |
@@ -130,11 +126,19 @@ The current iteration of UAF's robotic miner needs to be operation by sometime i
 
 #### Conversations with Dr. Lawlor as a First Step
 
-I met with Dr. Lawlor in his office in February 2023 to discuss potential involvement.
-
-He is most available for open discussion during his office hours, which are MWF 1300 to 1500 hrs. 
+Dr. Lawlor is most available for open discussion during his office hours, which are MWF 1300 to 1500 hrs. 
 
 We also meet with other students as a part of the Robotics Club on Thursdays from 1300 to 1400 hrs in ELIF 118.
+
+Dr. Lawlor and other students are also available for chat discussion on the Aurora Robotics Lab Discord server (this server is separate from the main CS UAF Discord server):
+
+[Discord Channel](https://discord.gg/Bn6ajrzH)
+
+Repositories containing additional work and content can be found on Github and Google Drive:
+
+[Github - Aurora Robotics Lab](https://github.com/AuroraRoboticsLab)
+
+[Google Drive - Aurora Robotics](https://drive.google.com/drive/u/3/folders/0B8usrKyXQLD_MTk0d3kxdTFYc2M?resourcekey=0-mtEqzlWHI9JxXBUNnrJwDA)
 
 #### A Quick Overview
 
@@ -149,10 +153,6 @@ At this time, Feb 2023, UAF is preparing a new iteration of our robotic mining r
 ##### UAF Robotics: Overview & Summary
 
 In the UAF Robotics Google Drive, there is a document that has a spread of introductory information and links to additional resources.
-
-The table document is provided in this repository [at this link](Documents/UAF-Robotics-Overview-and-Summary.pdf).
-
-To click on the links in the above table, you will need to download the file.
 
 
 
