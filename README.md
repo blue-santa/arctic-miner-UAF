@@ -91,20 +91,20 @@ Also note the following.
 
     Phase 2 contains three (3) levels. In this Phase, teams will design, build, and test terrestrial analog full-scale prototypes of robotic icy regolith excavation and transportation systems. Downstream ice and/or water delivery equipment described in Phase 1 of this Challenge will not be considered in Phase 2 of this Challenge.
 
-    LEVEL 1: PLAN THE PROTOTYPE
-
-    Teams will develop detailed engineering designs and long-duration demonstration test plans for their prototype systems.
-    
-    All teams that submit compliant deliverables by the deadline will move into Level 2.
-
-    Up to $500,000 in prizes will be offered in Level 1.
-
-    LEVEL 2: BUILD & TEST THE PROTOTYPE
-    Build your terrestrial analog full-scale prototype and conduct durability demonstrations at a facility of your choosing and submit the report data.
-    
-    Up to 15 teams will be selected to advance to Level 3
-
-    Up to $1,000,000 in prizes will be offered in Level 2
+>    LEVEL 1: PLAN THE PROTOTYPE
+>
+>    Teams will develop detailed engineering designs and long-duration demonstration test plans for their prototype systems.
+>    
+>    All teams that submit compliant deliverables by the deadline will move into Level 2.
+>
+>    Up to $500,000 in prizes will be offered in Level 1.
+>
+>    LEVEL 2: BUILD & TEST THE PROTOTYPE
+>    Build your terrestrial analog full-scale prototype and conduct durability demonstrations at a facility of your choosing and submit the report data.
+>    
+>    Up to 15 teams will be selected to advance to Level 3
+>
+>    Up to $1,000,000 in prizes will be offered in Level 2
 
 We are currently in Phase 2: Level 2. The rewards offered are as follows.
 
